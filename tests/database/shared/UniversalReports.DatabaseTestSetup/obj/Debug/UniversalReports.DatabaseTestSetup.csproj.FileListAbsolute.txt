@@ -1,8 +1,0 @@
-D:\Project\NapReports-Separate\nap-report-punter-analysis\tests\database\shared\UniversalReports.DatabaseTestSetup\bin\Debug\UniversalReports.DatabaseTestSetup.dll
-D:\Project\NapReports-Separate\nap-report-punter-analysis\tests\database\shared\UniversalReports.DatabaseTestSetup\bin\Debug\UniversalReports.DatabaseTestSetup.pdb
-D:\Project\NapReports-Separate\nap-report-punter-analysis\tests\database\shared\UniversalReports.DatabaseTestSetup\bin\Debug\Dapper.dll
-D:\Project\NapReports-Separate\nap-report-punter-analysis\tests\database\shared\UniversalReports.DatabaseTestSetup\bin\Debug\Fanex.Data.dll
-D:\Project\NapReports-Separate\nap-report-punter-analysis\tests\database\shared\UniversalReports.DatabaseTestSetup\bin\Debug\Fanex.Data.OldConnectionStringProvider.dll
-D:\Project\NapReports-Separate\nap-report-punter-analysis\tests\database\shared\UniversalReports.DatabaseTestSetup\bin\Debug\Dapper.xml
-D:\Project\NapReports-Separate\nap-report-punter-analysis\tests\database\shared\UniversalReports.DatabaseTestSetup\obj\Debug\UniversalReports.DatabaseTestSetup.dll
-D:\Project\NapReports-Separate\nap-report-punter-analysis\tests\database\shared\UniversalReports.DatabaseTestSetup\obj\Debug\UniversalReports.DatabaseTestSetup.pdb
